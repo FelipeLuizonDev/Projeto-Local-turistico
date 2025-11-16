@@ -1,0 +1,11 @@
+body {
+    padding: 88px 80px;
+    background-color: #F5F4F0;
+    font-family: "Open Sans", sans-serif;
+    box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+    border-radius: 28px;
+}
