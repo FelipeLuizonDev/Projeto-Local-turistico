@@ -62,6 +62,6 @@ Cada um com:
 
 1. Baixe ou clone o repositório:
    ```bash
-   git clone <url-do-seu-repositório>
+   git clone https://github.com/FelipeLuizonDev/Projeto-Local-turistico
 
 2. Abra o arquivo index.html no navegador: Via Live Server (VS Code), ou Clique duas vezes no arquivo
